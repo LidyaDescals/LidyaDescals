@@ -13,7 +13,7 @@ Here you can find some important facts about me:
  
 - 📫 If you have any questions, comments or feedback for me, you can reach me at LinkedIn: https://www.linkedin.com/in/lidyadescalssamper/
 
-- 🖌 This are some of the tools that I can use on my repositories:
+- 🖌 This are some of the tools that I use on my repositories:
 
 
  >- [MySQL](https://www.mysql.com/)
