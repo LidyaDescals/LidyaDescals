@@ -11,7 +11,7 @@ Here you can find some important facts about me:
  
 - 👯 I love pair and peer programming!
  
-- 📫 If you have any questions, comments or feedback for me, you can reach me at LinkedIn: https://www.linkedin.com/in/lidyadescalssamper/
+- 📫 If you have any questions, comments or feedback for me, you can reach me at [my LinkedIn profile](https://www.linkedin.com/in/lidyadescalssamper/).
 
 - 🖌 This are some of the tools that I use on my repositories:
 
