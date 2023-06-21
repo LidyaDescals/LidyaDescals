@@ -3,8 +3,8 @@
 
 Here you can find some important facts about me:
 
-- 🔧 I'm currently trying to find out what my next project is about. You'll know more soon!
-
+- 🔧 I'm currently working on a new project, exploring a very interesting dataset about books. You can find it [here](https://github.com/LidyaDescals/book-database), but, please, be patient! I just started :)
+]
 - 🔗 Here you can take a look at my favourite projects so far, the ones I'm most proud of.
  
 - 📚 I'm still growing my skills as a data analyst. 
